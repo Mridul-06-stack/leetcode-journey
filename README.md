@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0860-lemonade-change) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
