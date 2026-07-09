@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
@@ -53,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
