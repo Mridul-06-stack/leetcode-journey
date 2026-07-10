@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0860-lemonade-change) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [2104-sum-of-subarray-ranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
