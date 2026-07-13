@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
@@ -111,10 +113,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0112-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
