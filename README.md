@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [3340-check-balanced-string](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
