@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0112-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
