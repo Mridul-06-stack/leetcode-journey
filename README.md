@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0881-boats-to-save-people) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0881-boats-to-save-people) |
 ## Sorting
