@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0605-can-place-flowers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0860-lemonade-change) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
