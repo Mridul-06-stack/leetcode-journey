@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0735-asteroid-collision) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0226-invert-binary-tree) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0226-invert-binary-tree) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0450-delete-node-in-a-bst) |
@@ -264,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
