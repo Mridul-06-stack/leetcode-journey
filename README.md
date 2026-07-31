@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0881-boats-to-save-people) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1768-merge-strings-alternately) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3340-check-balanced-string](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
@@ -289,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0547-number-of-provinces) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
