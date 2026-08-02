@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0735-asteroid-collision) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0994-rotting-oranges) |
 ## Tree
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
