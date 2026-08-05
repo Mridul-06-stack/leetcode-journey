@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0605-can-place-flowers) |
+| [0695-max-area-of-island](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0860-lemonade-change) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0994-rotting-oranges) |
 ## Tree
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
