@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/2104-sum-of-subarray-ranges) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0993-cousins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
