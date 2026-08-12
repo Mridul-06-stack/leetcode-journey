@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
