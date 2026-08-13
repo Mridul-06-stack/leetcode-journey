@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -385,4 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0207-course-schedule) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
