@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0070-climbing-stairs) |
@@ -402,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
