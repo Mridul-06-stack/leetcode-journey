@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0994-rotting-oranges) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Hash Table
 |  |
