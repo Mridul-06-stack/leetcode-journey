@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Sliding Window
 |  |
 | ------- |
