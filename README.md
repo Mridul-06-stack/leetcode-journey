@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1137-n-th-tribonacci-number) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
