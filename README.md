@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0130-surrounded-regions) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0198-house-robber) |
