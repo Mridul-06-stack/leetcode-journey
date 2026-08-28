@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0605-can-place-flowers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0746-min-cost-climbing-stairs) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -447,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
