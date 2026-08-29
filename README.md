@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3340-check-balanced-string](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3340-check-balanced-string) |
+| [3856-trim-trailing-vowels](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3856-trim-trailing-vowels) |
 ## Stack
 |  |
 | ------- |
