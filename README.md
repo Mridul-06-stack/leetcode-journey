@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0494-target-sum) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0547-number-of-provinces) |
@@ -453,9 +456,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
