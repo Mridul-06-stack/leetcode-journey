@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1768-merge-strings-alternately) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
