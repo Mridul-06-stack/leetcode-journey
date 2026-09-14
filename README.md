@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -492,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
