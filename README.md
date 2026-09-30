@@ -508,5 +508,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
