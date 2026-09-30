@@ -505,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
