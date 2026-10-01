@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0881-boats-to-save-people) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph Coloring
 |  |
@@ -513,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0183-customers-who-never-order) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
