@@ -8,8 +8,8 @@ FROM (
         e.salary,
         d.name AS deptname,
         DENSE_RANK() OVER (
-            PARTITION BY e.departmentid 
-            ORDER BY salary DESC
+            PARTITION BY d.name
+            ORDER BY e.salary DESC
         ) AS rnk
     FROM employee e
     JOIN Department d
