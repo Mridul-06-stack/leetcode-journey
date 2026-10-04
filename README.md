@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0403-frog-jump) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0435-non-overlapping-intervals) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
