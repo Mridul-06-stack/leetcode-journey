@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0049-group-anagrams) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
