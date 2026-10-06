@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0455-assign-cookies) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0229-majority-element-ii) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search Tree
 |  |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mridul-06-stack/leetcode-journey/tree/master/0202-happy-number) |
 ## Geometry
 |  |
